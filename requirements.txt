@@ -1,0 +1,7 @@
+Flask
+gdown
+opencv-python
+numpy
+edge-tts
+requests
+ffmpeg-python
