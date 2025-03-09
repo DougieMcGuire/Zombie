@@ -3,20 +3,7 @@ import os
 def delete_file():
     files_to_delete = [
         # Initial list of files
-        "content/subtitle.mp4",
-        "content/edit1.mp4",
-        "production/video.mp4",
-        "audio/title.mp3",
-        "audio/body.mp3",
-        "video/body.mp4",
-        "video/title.mp4",
-        "content/title.mp4",
-        "output/title_standardized.mp4",
-        "output/subtitle_standardized.mp4",
-        "output/title_with_woosh.mp4",
-        "output/combined_video.mp4",
-        "content/final_video.mp4",
-        "production/video.mp4"
+        "content/subtitle.mp4"
     ]
 
     for file_path in files_to_delete:
