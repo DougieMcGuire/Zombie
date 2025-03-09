@@ -6,3 +6,4 @@ edge-tts
 requests
 ffmpeg-python
 openai-whisper
+pydub
